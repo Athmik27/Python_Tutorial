@@ -41,4 +41,4 @@ import pandas as pd
 
 
 df=pd.read_csv("sample.csv")
-print(pd.DataFrame(df))s
+print(pd.DataFrame(df))
