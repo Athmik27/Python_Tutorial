@@ -42,3 +42,26 @@ import pandas as pd
 
 df=pd.read_csv("sample.csv")
 print(pd.DataFrame(df))
+
+import pandas as pd
+
+df=pd.read_csv("sample.csv")
+df["Height"].fillna(df["Height"].mean(),inplace=True)
+print('Height')
+
+import pandas as pd
+df=pd.read_csv("sample.csv")
+result=df.duplicated()
+print(result)
+
+import pandas as pd
+df=pd.read_csv("sample.csv")
+result=df.duplicated().sum()
+print(result)
+
+
+import pandas as pd
+df=pd.read_csv("sample.csv")
+result=df.duplicated().sum()
+print(result)
+
