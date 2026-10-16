@@ -1550,7 +1550,7 @@ for i in range(10):
 
 ---
 
-# 62. Important Interview Differences
+# 62. Important Differences
 
 ## List vs Tuple
 
@@ -1606,7 +1606,7 @@ sorted()   → returns sorted object
 
 ---
 
-# 63. Common Python Interview Questions
+# 63. Common Python  Questions
 
 ### What is Python?
 
@@ -1668,7 +1668,7 @@ A mechanism for modifying or extending function/class behavior without directly 
 
 ---
 
-# 64. Python Data Structure Quick Revision
+# 64. Python Data Structure Revision
 
 ```text
 LIST
@@ -1696,7 +1696,7 @@ Keys must be hashable
 
 ---
 
-# 65. Most Important Syntax to Remember
+# 65.  Syntax to Remember
 
 ```python
 # Function
